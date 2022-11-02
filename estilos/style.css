@@ -41,7 +41,7 @@ section#login {
 section#login > div#imagem {
     display: block;
     background-image:url(../imagens/pexels-thisisengineering-3861976.jpgq);
-    background-size: 50px, 100px; 
+    background-size: 50px; 
     background-position: left bottom;
     height: 100px;
     width: 200px;
