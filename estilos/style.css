@@ -40,7 +40,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background-color: blue url(../imagens/tecnologia.jpg) no-repeat;
+    image-rendering: auto;
     background-size: cover;
     background-position: center;
     height: 200px;
